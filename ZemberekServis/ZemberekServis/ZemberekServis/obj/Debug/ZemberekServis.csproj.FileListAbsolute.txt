@@ -1,0 +1,42 @@
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\csc.exe
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\vbc.exe
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\VBCSCompiler.exe
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.dll.config
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.pdb
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.csprojResolveAssemblyReference.cache
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.dll
+C:\Users\er\Documents\Visual Studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.pdb
+C:\Users\er\documents\visual studio 2015\Projects\ZemberekServis\ZemberekServis\ZemberekServis\bin\NZemberek.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\csc.exe
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\vbc.exe
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\VBCSCompiler.exe
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.dll.config
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\ZemberekServis.pdb
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\NZemberek.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.csprojResolveAssemblyReference.cache
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.dll
+C:\Users\pc-27\Desktop\ZemberekServis\ZemberekServis\ZemberekServis\obj\Debug\ZemberekServis.pdb
